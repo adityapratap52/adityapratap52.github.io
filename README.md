@@ -37,7 +37,7 @@ I would love to connect with you and discuss collaboration opportunities or answ
 
 <img src="assets/images/portfolio-screenshot/portfolio-3-home.png" />
 
-<img src="assets/images/portfolio-screenshot/portfolio-3-about.png" />
+<img src="assets/images/portfolio-screenshot/portfolio-3-about.png" /> 
 
 <img src="assets/images/portfolio-screenshot/portfolio-3-skills.png" />
 
