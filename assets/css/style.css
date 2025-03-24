@@ -470,7 +470,7 @@ header .navbar ul li a:hover {
 
 /*.skills-c section starts */
 .skills-c {
-  min-height: 90vh;
+  min-height: 70vh;
   background: linear-gradient(to bottom, #57059e, #4a00e0);
 }
 .skills-c h2 {
@@ -497,7 +497,7 @@ header .navbar ul li a:hover {
   gap: 1.8rem;
 }
 .skills-c .container .bar {
-  width: 100px;
+  width: 110px;
   margin-bottom: 15px;
   padding: 10px;
   border-radius: 1rem;
@@ -570,7 +570,7 @@ header .navbar ul li a:hover {
 /* education section starts */
 .education {
   background: #e5ecfb;
-  min-height: 80vh;
+  min-height: 50vh;
 }
 .education .qoute {
   font-size: 1.5rem;

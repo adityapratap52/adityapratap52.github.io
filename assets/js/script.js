@@ -71,7 +71,7 @@ $(document).ready(function () {
             message: messageText,
           };
 
-          var serviceID = "service_m7fmold"; // Your Email Service ID
+          var serviceID = "servicfmold"; // Your Email Service ID
           var templateID = "template_ta4qdi2"; // Your Email Template ID
 
           // Send the email using Email.js
@@ -132,10 +132,11 @@ function showSkills(skills) {
   let skillsContainer = document.getElementById("skillsContainer");
   let skillHTML = "";
   skills.forEach((skill) => {
+    let imgWidth = skill.name === "JSP" ? "49px" : "auto"; 
     skillHTML += `
         <div class="bar">
         <div class="info skills-card">
-        <img class="skills-card-img" src=${skill.icon} alt="skill" />
+        <img class="skills-card-img" width=${imgWidth} src=${skill.icon} alt="skill" />
         <span class="skills-card-name">${skill.name}</span>
       </div>
              
@@ -278,17 +279,17 @@ srtop.reveal(".contact-c .container .form-group", { delay: 400 });
 
 //navbar resume btn
 
-var resume1 = document.getElementById("resume-button-1");
-resume1.addEventListener("click", function () {
-  const previewUrl =
-    "https://drive.google.com/file/d/11bK4FKFlioVoD2HiNnaRXMe_KEvAIwRX/view?usp=sharing";
+// var resume1 = document.getElementById("resume-button-1");
+// resume1.addEventListener("click", function () {
+//   const previewUrl =
+//     "https://drive.google.com/file/d/11bK4FKFlioVoD2HiNnaRXMe_KEvAIwRX/view?usp=sharing";
     
-  const downloadUrl =
-    "https://www.dropbox.com/s/vryemzdjb9vrc81/Abhishek%20Dukare.pdf?dl=1";
+//   const downloadUrl =
+//     "https://www.dropbox.com/s/vryemzdjb9vrc81/CV_ADITYA_PRATAP.pdf?dl=1";
 
-  window.open(previewUrl, "_blank");
-  window.location.href = downloadUrl;
-});
+//   window.open(previewUrl, "_blank");
+//   window.location.href = downloadUrl;
+// });
 
 
 // PHone contact
