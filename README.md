@@ -31,8 +31,8 @@ Electone.Com, Your Ultimate E-Commerce Website For Purchasing Top-Quality Electr
 
 I would love to connect with you and discuss collaboration opportunities or answer any questions you might have. Feel free to reach out to me through the following channels:
 
-- Email: abhishekdukare689@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/abhishek-dukare-937156257)
+- Email: adityapratap1490@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/adityapratap52)
 - Portfolio Website: (https://abhi21121211.github.io)
 
 <img src="assets/images/portfolio-screenshot/portfolio-3-home.png" />
@@ -41,7 +41,7 @@ I would love to connect with you and discuss collaboration opportunities or answ
 
 <img src="assets/images/portfolio-screenshot/portfolio-3-skills.png" />
 
-<img src="assets/images/portfolio-screenshot/portfolio-3-project.png" />
+<img src="assets/images/projects/project1.png" />
 
 <img src="assets/images/portfolio-screenshot/portfolio-3-github.png" />
 
@@ -50,5 +50,5 @@ I would love to connect with you and discuss collaboration opportunities or answ
 
 Thank you for taking the time to explore my portfolio. I look forward to the possibility of working together and contributing to exciting projects.
 
-#abhishekdukareportfolio
-#portfolio #masai #abhishek #dukare #fullstackdevlper #webdevlper 
+#adityapratapportfolio
+#portfolio #masai #aditya #pratap #singh #softwareengineer #webdeveloper 
