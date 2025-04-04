@@ -166,11 +166,9 @@ function showProjects(projects) {
           <div class="project-tech-stack">
           <div class="btns">
 <a href="${project.links.view}" class="btn project-deployed-link" target="_blank"><i class="fas fa-eye"></i> View</a>
-  <a  href="${project.links.code}" class="btn project-github-link" target="_blank">Code <i class="fas fa-code"></i></a>
-          
-
-         
-
+ <a href="${project.links.code}" class="btn project-github-link" target="_blank" ${project.visibleCode === false ? 'style="pointer-events: none; opacity: 0.5;"' : ''}>
+   Code <i class="fas fa-code"></i>
+  </a>
           </div>
           </div>
         

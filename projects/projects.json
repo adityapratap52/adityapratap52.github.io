@@ -1,22 +1,24 @@
 [
   {
-    "name": "Electon",
-    "desc": "Electone.com, your ultimate e-commerce website for purchasing top-quality electronic gadgets at affordable prices.",
-    "image": "electon-home",
+    "name": "Smart Refrigerator Service",
+    "desc": "SmartRefrigeratorService.com is your one-stop platform for appliance repairs and e-commerce, offering affordable services for ACs, washing machines, refrigerators, geysers, mixers, and parts. Only Owner can create the new credentials for users.",
+    "image": "refrigeratorWeb",
     "category": "basicweb",
+    "visibleCode":false,
     "links": {
-      "view": "https://electon.vercel.app/",
-      "code": "https://github.com/thisiskmv/Electon-clone"
+      "view": "http://13.234.53.247/refrigerator",
+      "code": ""
     }
   },
   {
-    "name": "Shopclues Clone",
-    "desc": "ShopClues Clone, a meticulously crafted e-commerce platform that brings you the essence of India's leading online shopping website, ShopClues.com.",
-    "image": "shopclues-home",
+    "name": "ICoder",
+    "desc": "ICoder is simple website for coding preparation.",
+    "image": "ICoder",
     "category": "basicweb",
+    "visibleCode":true,
     "links": {
-      "view": "https://shopclues-clone-w5.netlify.app/",
-      "code": "https://github.com/ShubhamRaut187/Shopclues.com-Masai_Unit-5_CW"
+      "view": "https://adityapratap52.github.io/iCoderBootstrap/",
+      "code": "https://github.com/adityapratap52/icoder"
     }
   },
   {
@@ -38,36 +40,6 @@
     "links": {
       "view": "https://foodrocket-web.netlify.app/",
       "code": "https://github.com/abhi21121211/FoodRocket"
-    }
-  },
-  {
-    "name": "Portfolio 1",
-    "desc": "I proudly present my skills, accomplishments, and creative journey in the field of development.",
-    "image": "portfolio1-home",
-    "category": "basicweb",
-    "links": {
-      "view": "https://abhishek-dukare-portfolio-1.vercel.app/",
-      "code": "https://github.com/abhi21121211/portfolio-1"
-    }
-  },
-  {
-    "name": "Portfolio 2",
-    "desc": "I proudly present my skills, accomplishments, and creative journey in the field of development.",
-    "image": "portfolio2-home",
-    "category": "basicweb",
-    "links": {
-      "view": "https://abhishek-dukare-portfolio-2.netlify.app/",
-      "code": "https://github.com/abhi21121211/Portfolio-2"
-    }
-  },
-  {
-    "name": "Portfolio 3",
-    "desc": "I proudly present my skills, accomplishments, and creative journey in the field of development.",
-    "image": "portfolio-3-home",
-    "category": "basicweb",
-    "links": {
-      "view": "https://abhi21121211.github.io/",
-      "code": "https://github.com/abhi21121211/abhi21121211.github.io"
     }
   }
 ]
