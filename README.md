@@ -41,7 +41,11 @@ I would love to connect with you and discuss collaboration opportunities or answ
 
 <img src="assets/images/portfolio-screenshot/portfolio-3-skills.png" />
 
-<img src="assets/images/projects/project1.png" />
+<img src="assets/images/projects/refrigeratorWeb.png" />
+
+<img src="assets/images/projects/examportal.png" />
+
+<img src="assets/images/projects/ICoder.png" />
 
 <img src="assets/images/portfolio-screenshot/portfolio-3-github.png" />
 

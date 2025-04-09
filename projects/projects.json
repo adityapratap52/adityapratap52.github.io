@@ -1,7 +1,7 @@
 [
   {
     "name": "Smart Refrigerator Service",
-    "desc": "SmartRefrigeratorService.com is your one-stop platform for appliance repairs and e-commerce, offering affordable services for ACs, washing machines, refrigerators, geysers, mixers, and parts. Only Owner can create the new credentials for users.",
+    "desc": "SmartRefrigeratorService.com is your one-stop platform for appliance repairs and e-commerce, offering affordable services for ACs, washing machines, refrigerators, etc and purchase appliance parts",
     "image": "refrigeratorWeb",
     "category": "basicweb",
     "visibleCode":false,
@@ -22,13 +22,13 @@
     }
   },
   {
-    "name": "Bluefly Clone",
-    "desc": "Bluefly.com website clone is a meticulously crafted online fashion retail platform inspired by the popular original.v",
-    "image": "bluefly-home",
+    "name": "Exam Portal",
+    "desc": "Exam Portal is provide assessment related to multiple category like G.K, Programming language etc.",
+    "image": "examportal",
     "category": "basicweb",
     "links": {
-      "view": "https://bluefly-clone-team5.netlify.app/",
-      "code": "https://github.com/Mzsalmani02/bluefly_clone"
+      "view": "http://65.1.77.61/examportal",
+      "code": "https://github.com/adityapratap52/examportal-UI"
     }
   },
 
