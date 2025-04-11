@@ -33,13 +33,13 @@
   },
 
   {
-    "name": "Foodrocket",
-    "desc": "It's Responsive Food and Restaurant Website using Bootstrap 5.",
-    "image": "foodrocket-home",
+    "name": "Try Netfilx",
+    "desc": "This web application is the clone of netflix.",
+    "image": "trynetflix",
     "category": "basicweb",
     "links": {
-      "view": "https://foodrocket-web.netlify.app/",
-      "code": "https://github.com/abhi21121211/FoodRocket"
+      "view": "https://trynetfix.vercel.app/",
+      "code": "https://github.com/adityapratap52/netflix"
     }
   }
 ]
