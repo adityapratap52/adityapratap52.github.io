@@ -33,7 +33,7 @@ I would love to connect with you and discuss collaboration opportunities or answ
 
 - Email: adityapratap1490@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/adityapratap52)
-- Portfolio Website: (https://abhi21121211.github.io)
+- Portfolio Website: (https://adityapratap52.github.io)
 
 <img src="assets/images/portfolio-screenshot/portfolio-3-home.png" />
 
